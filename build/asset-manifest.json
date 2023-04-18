@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.588ba9b7.js",
+    "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
+    "static/media/MedievalVillage.png": "/static/media/MedievalVillage.134dc60ba4d8550abf24.png",
+    "static/media/Forest.png": "/static/media/Forest.eba32bfbcfadf8f12863.png",
+    "static/media/Audio Reactor.png": "/static/media/Audio Reactor.fce710f0de20048c5a54.png",
+    "static/media/Empire.png": "/static/media/Empire.b8c6b699964c37aa45db.png",
+    "static/media/Nordic Beach Scene.png": "/static/media/Nordic Beach Scene.3e4552b3b72447b3365a.png",
+    "static/media/Dancer.png": "/static/media/Dancer.91ac4a24b612d63f7536.png",
+    "static/media/DragonFire.png": "/static/media/DragonFire.d459ddbac4a457eec832.png",
+    "static/media/Candy.png": "/static/media/Candy.a17fadc9fd84f05365bd.png",
+    "static/media/Twister.png": "/static/media/Twister.311d4d77b01c070efa17.png",
+    "static/media/Skull.png": "/static/media/Skull.d7932d0fc27b4a1dba95.png",
+    "static/media/Donut.png": "/static/media/Donut.dfe084412a820caa7664.png",
+    "static/media/Cube.png": "/static/media/Cube.cd32235eba272de4ae64.png",
+    "static/media/Can.png": "/static/media/Can.0db365c92f2324739ec8.png",
+    "static/media/Landscape.png": "/static/media/Landscape.b9df9662977ed7c3e456.png",
+    "static/media/Portal.png": "/static/media/Portal.a267df1919561de04325.png",
+    "static/media/Tyre Burn.png": "/static/media/Tyre Burn.3d9b2e4920176cec7757.png",
+    "static/media/IdleAnim.png": "/static/media/IdleAnim.895f49b37d8cfc7f9ec9.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.588ba9b7.js.map": "/static/js/main.588ba9b7.js.map",
+    "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.588ba9b7.js"
+  ]
+}
