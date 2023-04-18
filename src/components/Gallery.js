@@ -229,6 +229,16 @@ export default function Gallery() {
                         </div>
                     </div>
                 </div>
+                <div className = "col-sm">
+                    <div className="card">
+                        <img src={forestImage} className="card-img-top" alt="renderPic"/>
+                        <div className="card-body">
+                            <h5 className="card-title">Forest Level</h5>
+                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="https://youtu.be/O7NHsK6ViEM" className="btn btn-primary">Check out the Video</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </>
