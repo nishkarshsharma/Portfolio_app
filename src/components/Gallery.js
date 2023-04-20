@@ -28,7 +28,17 @@ export default function Gallery() {
         <h1 className='text-center text-success my-5'>
             Hi, I'm Nishkarsh Sharma.
         </h1>
-
+        
+        <div className='container'>
+        <h4> As a fervent and passionate newcomer to the IT industry, 
+            I've been refining my game design and development abilities using both Unity and Unreal engines for almost two years. 
+            Additionally, I possess a keen interest in data science and analytics and have undertaken projects that combine these disciplines with the emerging Metaverse technology. 
+            Currently, I am concentrating on expanding my frontend skills with React and NodeJS, aiming to eventually become a versatile full-stack developer. 
+            With a solid foundation in game design, data analytics, and web development, 
+            I am eager to contribute my distinct outlook and skill set to the tech industry.
+        </h4>
+        </div>
+        
         <h1 className='text-center text-success my-5'>
             Renders
         </h1>
